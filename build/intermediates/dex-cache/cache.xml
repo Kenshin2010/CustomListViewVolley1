@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\LAP TRINH ANDROID\DevProK17\CustomListViewVolley1\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\LAP TRINH ANDROID\DevProK17\CustomListViewVolley1\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_1bc06f564c898a0e480a8e6e5d46b54fa3d6f9d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LAP TRINH ANDROID\DevProK17\CustomListViewVolley1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d427fb2998a94c7be026968611600c20b279ae8f">
+        <dex dex="D:\LAP TRINH ANDROID\DevProK17\CustomListViewVolley1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c969b2132e89c1b2657e06339ad2a00505d12ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manroid\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\LAP TRINH ANDROID\DevProK17\CustomListViewVolley1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_ee3f6e813e01cfa5712cd0ae56cb0c16a5ab4926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LAP TRINH ANDROID\DevProK17\CustomListViewVolley1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46e21d1be58c39c469396ed98f2706de9025abf7">
+        <dex dex="D:\LAP TRINH ANDROID\DevProK17\CustomListViewVolley1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_beb748e6d67c0910acbf821d6c1c01e3c9c17bca\classes.dex" />
+    </item>
+
+</items>

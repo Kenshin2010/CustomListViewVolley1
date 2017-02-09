@@ -1,0 +1,7 @@
+#Thu Feb 09 14:04:23 ICT 2017
+base.0=D\:\\LAP TRINH ANDROID\\DevProK17\\CustomListViewVolley1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c969b2132e89c1b2657e06339ad2a00505d12ee6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\LAP TRINH ANDROID\\DevProK17\\CustomListViewVolley1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_beb748e6d67c0910acbf821d6c1c01e3c9c17bca\\classes.dex
+base.1=D\:\\LAP TRINH ANDROID\\DevProK17\\CustomListViewVolley1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_beb748e6d67c0910acbf821d6c1c01e3c9c17bca
+file.0=D\:\\LAP TRINH ANDROID\\DevProK17\\CustomListViewVolley1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c969b2132e89c1b2657e06339ad2a00505d12ee6\\classes.dex

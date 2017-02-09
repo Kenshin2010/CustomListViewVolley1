@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\CustomListViewVolley1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg.xml",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\CustomListViewVolley1\\app\\src\\main\\res\\drawable\\list_row_bg.xml"
+    },
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\CustomListViewVolley1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_selector.xml",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\CustomListViewVolley1\\app\\src\\main\\res\\drawable\\list_row_selector.xml"
+    },
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\CustomListViewVolley1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg_hover.xml",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\CustomListViewVolley1\\app\\src\\main\\res\\drawable\\list_row_bg_hover.xml"
+    }
+]

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="11063273325252"
+    token="4005611074284775402"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="652" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="142" />
+    <task
+        name="verifier"
+        duration="38" />
+
+    <artifact
+        location="D:\LAP TRINH ANDROID\DevProK17\CustomListViewVolley1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="11063273325252"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\LAP TRINH ANDROID\DevProK17\CustomListViewVolley1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
